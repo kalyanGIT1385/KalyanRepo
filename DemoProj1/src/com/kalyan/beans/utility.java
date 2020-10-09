@@ -16,5 +16,8 @@ public class utility {
 		System.out.println("::::Utility m1()::::1234567");
 
 	}
+	public void m2() {
+		System.out.println("stashing!!");
+	}
 
 }
