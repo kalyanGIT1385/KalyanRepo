@@ -19,5 +19,9 @@ public class utility {
 	public void m2() {
 		System.out.println("stashing!!");
 	}
+	
+	public void m3() {
+		
+	}
 
 }
