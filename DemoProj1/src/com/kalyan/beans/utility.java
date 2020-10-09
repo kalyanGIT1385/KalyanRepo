@@ -21,5 +21,7 @@ public class utility {
 	}
 	
 	
-
+public void m4() {
+	System.out.println("utility.m4()");
+}
 }
