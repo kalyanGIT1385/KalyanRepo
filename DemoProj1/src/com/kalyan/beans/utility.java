@@ -20,8 +20,6 @@ public class utility {
 		System.out.println("stashing!!");
 	}
 	
-	public void m3() {
-		
-	}
+	
 
 }
